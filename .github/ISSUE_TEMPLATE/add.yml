@@ -1,7 +1,5 @@
 name: 提交博文
-description: 向我们提交关于高考感想的博文
-title: ""
-labels: 
+description: 提交高考感想博文
 assignees:
   - yzqzss
 body:
