@@ -1,0 +1,24 @@
+name: 提交博文
+description: 向我们提交关于高考感想的博文
+title: ""
+labels: 
+assignees:
+  - yzqzss
+body:
+  - type: input
+    id: url
+    attributes:
+      label: 博文网址
+      description: 
+      placeholder: ex. https://www.keshankang.org/one-year-after-gaokao/
+    validations:
+      required: true
+  - type: input
+    id: province
+    attributes:
+      label: 省份
+      description: 
+      placeholder: ex. 福建省、上海市
+      value: "A bug happened!"
+    validations:
+      required: false
