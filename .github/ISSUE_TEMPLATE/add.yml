@@ -1,21 +1,23 @@
 name: 提交博文
-description: 提交高考感想博文
+description: 向我们提交关于高考感想的博文
+title: "【提交】博文名称"
+labels: 
 assignees:
   - yzqzss
 body:
   - type: input
     id: url
     attributes:
-      label: 博文网址
+      label: "博文网址"
       description: 
-      placeholder: ex. https://www.keshankang.org/one-year-after-gaokao/
+      placeholder: "ex. https://www.keshankang.org/one-year-after-gaokao/"
     validations:
       required: true
   - type: input
     id: province
     attributes:
-      label: 省份
+      label: "省份"
       description: 
-      placeholder: ex. 福建省、上海市
+      placeholder: "ex. 福建省、上海市"
     validations:
       required: false
