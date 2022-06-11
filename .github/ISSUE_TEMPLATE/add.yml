@@ -19,6 +19,5 @@ body:
       label: 省份
       description: 
       placeholder: ex. 福建省、上海市
-      value: "A bug happened!"
     validations:
       required: false
