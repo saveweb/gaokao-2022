@@ -28,3 +28,11 @@
 | [弹指一挥间 - 夜将夜](https://yejiangye.com/archives/77/)                                  | 四川 |           | 1367    |                  |
 | [深圳，请多指教 - 星川栀子的杂物铺](https://www.kutinai.com/hello-lgu/)                      |     |            |  1260   | 1657793765051029 |
 | [高考后的假期 - 逆风的小窝](https://blog.smallxu.com/post-474.html)、[暑期计划 - 逆风的小窝](https://blog.smallxu.com/post-476.html)、[完成高考志愿填报 - 逆风的小窝](https://blog.smallxu.com/post-478.html)                                                   | 陕西 |           | 1368    | 1655272504604835 等 |
+
+
+
+---
+特殊：「中考」（因文章少故不单独设仓库）
+|                        标题及链接*                                                        | 省份 | GitHub_ID | Blog_ID | Article_ID       |
+| ---------------------- | ----- | ------ | ------ | ---- |
+| [二〇二二，我的中考 – LCZBlog](https://blog.licaoz.com/post/my-junior-high-school-level-and-senior-high-school-entrance-examination-in-2022/) | 重庆 | @LiCaoZ | 1163 | 1656616285286777 |
